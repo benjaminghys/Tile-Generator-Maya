@@ -7,7 +7,6 @@ This tool is ideal for quickly populating environments with tiles or similar obj
 
 Within the UI, you can define tile parameters such as size, gaps, rotation, and height variation while maintaining flexibility for re-generation.
 
----
 
 ## Features
 
@@ -28,7 +27,6 @@ Within the UI, you can define tile parameters such as size, gaps, rotation, and 
     - Height variation control.
     - Rotation variation control.
 
----
 
 ## Installation
 
@@ -43,7 +41,6 @@ Within the UI, you can define tile parameters such as size, gaps, rotation, and 
 
 4. The UI will appear, allowing you to configure and generate tiles.
 
----
 
 ## How to Use
 
@@ -70,7 +67,6 @@ Within the UI, you can define tile parameters such as size, gaps, rotation, and 
 5. **Clear Tiles**:
    - Use the **Clear Scene** option to remove previously generated tiles.
 
----
 
 ## UI Layout
 
@@ -84,7 +80,6 @@ Within the UI, you can define tile parameters such as size, gaps, rotation, and 
 - **Regeneration Settings**:
   - Choose which attributes to preserve (size, rotation, height) when regenerating tiles.
 
----
 
 ## Example
 
@@ -110,7 +105,6 @@ To generate a grid of 10x5 tiles with random sizes and spacing:
 
 - Autodesk Maya (tested in Maya 2018 and later).
 
----
 
 ## Notes
 
@@ -118,13 +112,11 @@ To generate a grid of 10x5 tiles with random sizes and spacing:
 - The script offers extensive control over tile properties, making it useful for environment artists and technical artists.
 - By preserving specific attributes during regeneration, you can fine-tune tiles without starting over.
 
----
 
 ## License
 
 This script is free to use and modify. Attribution is appreciated.
 
----
 
 ## Author
 
