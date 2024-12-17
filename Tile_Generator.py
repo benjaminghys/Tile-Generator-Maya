@@ -242,7 +242,6 @@ class UI:
             cmd.deleteUI('window1', window=True)
 
         MainWindow = cmd.window(title=id, sizeable=False, resizeToFitChildren=True)  # create new window
-        print MainWindow
 
         cmd.rowColumnLayout(numberOfColumns=1, co=(1, "both", 15))
 
